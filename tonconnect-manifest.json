@@ -1,5 +1,5 @@
 {
   "url": "ton://arx1t3k.ton",
   "name": "BetDex",
-  "iconUrl": "ton://arx1t3k.ton/logo.svg",
+  "iconUrl": "https://raw.githubusercontent.com/arx1t3kton/BetDex/refs/heads/main/logo.svg",
 }
